@@ -1,3 +1,2 @@
 # Welcome to maaru's profile
-
-![keyboard](/img/keyboard.gif)
+<img src="./img/keyboard.gif" alt="keyboard" width="300"/>
