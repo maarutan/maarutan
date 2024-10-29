@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="./style.css">
 <p class="title">Welcome to my GitHub profile!</p>
 <div class="header">
 	<img class="rock" src="./img/rock.png" alt="rock" />
