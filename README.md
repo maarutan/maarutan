@@ -1,29 +1,6 @@
-<p class="title">Welcome to my GitHub profile!</p>
-<div class="header">
-    <img class="rock" src="./img/rock.png" alt="rock" />
-    <img class="keyboard" src="./img/keyboard.gif" alt="keyboard" />
-    <img class="rock" src="./img/rock.png" alt="rock" />
+<p class="title" style="font-size: 5vw; text-align: center;">Welcome to my GitHub profile!</p>
+<div class="header" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img class="rock" src="./img/rock.png" alt="rock" style="max-width: 16vw;" />
+    <img class="keyboard" src="./img/keyboard.gif" alt="keyboard" style="max-width: 40vw;" />
+    <img class="rock" src="./img/rock.png" alt="rock" style="max-width: 16vw;" />
 </div>
-
-<style>
-.header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px; /* Добавлено пространство между изображениями */
-}
-
-.rock {
-    max-width: 16vw; /* Максимальная ширина для изображений rock */
-}
-
-.keyboard {
-    max-width: 40vw; /* Максимальная ширина для изображения keyboard */
-}
-
-.title {
-    font-size: 5vw; /* Размер шрифта для заголовка */
-    text-align: center; /* Центрирование заголовка */
-}
-
-</style>
