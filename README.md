@@ -1,6 +1,7 @@
-<h1> Welcome to my GitHub profile! </h1>  
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./img/rock.png" alt="rock" width="150"/>
-    <img src="./img/keyboard.gif" alt="keyboard" width="500"/>
-    <img src="./img/rock.png" alt="rock" width="150"/>
+<link rel="stylesheet" href="style.css" />
+<p class="title">Welcome to my GitHub profile!</p>
+<div class="header">
+	<img class="rock" src="./img/rock.png" alt="rock" />
+	<img class="keyboard" src="./img/keyboard.gif" alt="keyboard" />
+	<img class="rock" src="./img/rock.png" alt="rock" />
 </div>
