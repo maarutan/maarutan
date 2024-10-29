@@ -1,6 +1,2 @@
-<p style="text-align: center;" align="center">Welcome to my GitHub profile!</p>
-<div style="display: flex; justify-content: center; align-items: center;  " align="center">
-    <img src="./img/rock.png" alt="rock" width="80"/>
-    <img src="./img/keyboard.gif" alt="keyboard" width="150" margin-botton="50"/>
-    <img src="./img/rock.png" alt="rock" width="80"/>
-</div>
+<h2 align="center">Welcome to my GitHub profile!</h2>
+<div align="center"><img src="./img/keyboard.gif" alt="keyboard"  style="width:500px;"/></div>
