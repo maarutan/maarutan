@@ -33,8 +33,8 @@ print("hello world");
 <img src="./img/SteckTechnology/SQLite.svg" alt="NextJS"/>
 <img src="./img/SteckTechnology/Docker.svg" alt="NextJS"/>
 <img src="./img/SteckTechnology/Django.svg" alt="NextJS"/>
-<strong>Backend</strong>
 <div align="center"><img src="./img/line.png" alt="line"  width="300" /></div>
+<strong>Backend</strong>
 </div>
 <br />
 <br />
