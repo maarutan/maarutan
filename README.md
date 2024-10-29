@@ -5,3 +5,4 @@
 	<img class="keyboard" src="./img/keyboard.gif" alt="keyboard" />
 	<img class="rock" src="./img/rock.png" alt="rock" />
 </div>
+<link rel="stylesheet" type="text/css" href="./styles/main.css">
