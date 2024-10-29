@@ -2,7 +2,7 @@
 <div align="center">
 
 ```python
-print("hello world");
+print("hello world")
 ```
 
 </div>
