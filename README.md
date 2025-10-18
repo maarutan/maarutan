@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my GitHub profile!</h2>
 
-<img src="https://wakatime.com/badge/user/e49eaebf-2429-4aa4-919b-670e8ef6be5c.svg)](https://wakatime.com/@e49eaebf-2429-4aa4-919b-670e8ef6be5c" alt="wakatime">
+<img src="https://wakatime.com/badge/user/e49eaebf-2429-4aa4-919b-670e8ef6be5c.svg" alt="wakatime">
 
 <div align="center">
 ```python
